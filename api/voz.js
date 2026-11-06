@@ -6,7 +6,7 @@ const VOICES = {
   
   "David Torres": "7c64cb38b3b64fc6b49961b80231ea64",
   "Ivet Serrano": "aa5292f794e84f91944612740b7c96eb",
-  "José Luis Marroquín": "bc42c9eb96dc46abaa8cf8aea92d33ad",
+  "José Luis Marroquín": "6696981d44d84d59b8ce4d08921bb0ec",
   "Vanesa Aguilar": "b38070d210824c43934a7bc7a317a966",
   "Diego Olivos": "643052dff85843ffb4840bada1925879",
   "Paulina Cantú": "aa29994adcd44098b27b59cb1ca68d51",
