@@ -12,7 +12,7 @@ const VOICES = {
   "Paulina Cantú": "6bc04bee105048eea805dbae4dcfb7e9",
   "Javier Castañeda": "d073378321bb4813a44daea9b7ffb9a0",
   "Bianca Cortés": "49019970f76a49be8105a0bfd4fe34fd",
-  "Mauricio Leal": "e6f80a75818846988ef084c6e7ff78bf",
+  "Mauricio Leal": "4e17880c90de479aa5ea91a55c7f8b6a",
   "Renata Lozano": "04db0f12a69b49f1a52e3de00336eb08",
   "Sofía Garza": "b6ac3f58d5df46bd947a10c533a3583a",
   "Jared Villarreal": "27a9c5c37b2a4a0894dd1676593dcbbc",
