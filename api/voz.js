@@ -10,7 +10,7 @@ const VOICES = {
   "Vanesa Aguilar": "b38070d210824c43934a7bc7a317a966",
   "Diego Olivos": "430000a5f7ff49e1894b3d8972101af0",
   "Paulina Cantú": "6bc04bee105048eea805dbae4dcfb7e9",
-  "Javier Castañeda": "c8bed8c949ce478fa479917273d5b074",
+  "Javier Castañeda": "d073378321bb4813a44daea9b7ffb9a0",
   "Bianca Cortés": "17f1dd8260134ab9b0293f2f14a1993a",
   "Mauricio Leal": "e6f80a75818846988ef084c6e7ff78bf",
   "Renata Lozano": "04db0f12a69b49f1a52e3de00336eb08",
