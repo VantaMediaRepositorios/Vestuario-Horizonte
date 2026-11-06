@@ -9,7 +9,7 @@ const VOICES = {
   "José Luis Marroquín": "6696981d44d84d59b8ce4d08921bb0ec",
   "Vanesa Aguilar": "b38070d210824c43934a7bc7a317a966",
   "Diego Olivos": "430000a5f7ff49e1894b3d8972101af0",
-  "Paulina Cantú": "aa29994adcd44098b27b59cb1ca68d51",
+  "Paulina Cantú": "6bc04bee105048eea805dbae4dcfb7e9",
   "Javier Castañeda": "c8bed8c949ce478fa479917273d5b074",
   "Bianca Cortés": "17f1dd8260134ab9b0293f2f14a1993a",
   "Mauricio Leal": "e6f80a75818846988ef084c6e7ff78bf",
