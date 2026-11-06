@@ -4,7 +4,7 @@ const FISH_AUDIO_MODEL = process.env.FISH_AUDIO_MODEL || "s2.1-pro-free";
 
 const VOICES = {
   
-  "David Torres": "6a0b1d562a7644bdbc94e12166c0bccb",
+  "David Torres": "7c64cb38b3b64fc6b49961b80231ea64",
   "Ivet Serrano": "771e4c5eeb274fc4b8ae123c7244bbfa",
   "José Luis Marroquín": "bc42c9eb96dc46abaa8cf8aea92d33ad",
   "Vanesa Aguilar": "b38070d210824c43934a7bc7a317a966",
